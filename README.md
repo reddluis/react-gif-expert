@@ -1,3 +1,3 @@
 # GifExpertApp
 
-repositorio del proyecto GifExpertApp de Read
+repositorio del proyecto GifExpertApp de React
